@@ -1,3 +1,3 @@
-export { default as createLayoutStyle } from './createLayoutStyle';
-export type * from './types';
-export { default as withLayout } from './withSkeleton';
+export { default as CzBlockSkeleton } from './CzBlockSkeleton';
+export { default as CzInlineSkeleton } from './CzInlineSkeleton';
+export { default as styledSkeleton } from './styledSkeleton';
